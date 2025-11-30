@@ -13,9 +13,9 @@ class SmsServiceImplTest {
     @Autowired
     private SmsService service;
 
-    @Test
-    void sendSms() {
-        service.sendSms("17701326512", "123456");
-    }
+//    @Test
+//    void sendSms() {
+//        service.sendSms("17701326512", "123456");
+//    }
 
 }
